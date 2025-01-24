@@ -45,7 +45,7 @@ IS_KALVIAN=true
 
 Fill in the values for `API_KEY` and `SERVER_SECRET` as needed.
 
----
+---           
 
 ### **3. Read the ENV Variables**
 
